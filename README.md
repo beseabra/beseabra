@@ -1,10 +1,10 @@
-### Olá, esse repositório pertence ao Bernardo Seabra 👋
+### Hello, this repository belongs to Bernardo Seabra👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardo-seabra/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beseabra&langs_count=8)
 
-### Tecnologias do dia a dia 💻
+### Technologies I have experience 💻
 
 <div>
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
